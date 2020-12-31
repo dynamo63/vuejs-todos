@@ -1,5 +1,7 @@
 # vuejs-todo
 
+A Simple Todos List with vue3js
+
 ## Project setup
 ```
 yarn install
